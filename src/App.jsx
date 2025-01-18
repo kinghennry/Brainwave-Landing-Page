@@ -16,8 +16,7 @@ export default function App() {
       {/* <Features /> */}
       {/* <Story /> */}
       {/* <Contact /> */}
-      {/* <Footer /> */}
-      <h1>Navbar</h1>
+      <h1>Navbarss</h1>
       <p>Remove navbar</p>
       <h1>Hero</h1>
       <p>Remove Hero</p>
@@ -29,8 +28,7 @@ export default function App() {
       <p>Remove this Story</p>
       <h1>Contact</h1>
       <p>Remove Contact</p>
-      <h1>Footer</h1>
-      <p>Remove Footer</p>
+      <Footer />
     </main>
   )
 }
