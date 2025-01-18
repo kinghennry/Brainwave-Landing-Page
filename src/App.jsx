@@ -18,12 +18,19 @@ export default function App() {
       {/* <Contact /> */}
       {/* <Footer /> */}
       <h1>Navbar</h1>
+      <p>Remove navbar</p>
       <h1>Hero</h1>
+      <p>Remove Hero</p>
       <h1>About</h1>
+      <p>Remove About</p>
       <h1>Features</h1>
+      <p>Remove Features</p>
       <h1>Story</h1>
+      <p>Remove Story</p>
       <h1>Contact</h1>
+      <p>Remove Contact</p>
       <h1>Footer</h1>
+      <p>Remove Footer</p>
     </main>
   )
 }
