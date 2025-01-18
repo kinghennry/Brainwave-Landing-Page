@@ -26,7 +26,7 @@ export default function App() {
       <h1>Features</h1>
       <p>Remove Features</p>
       <h1>Story</h1>
-      <p>Remove Story</p>
+      <p>Remove this Story</p>
       <h1>Contact</h1>
       <p>Remove Contact</p>
       <h1>Footer</h1>
