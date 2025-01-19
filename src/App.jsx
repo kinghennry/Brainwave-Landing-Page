@@ -22,6 +22,7 @@ export default function App() {
       <p>Remove Hero</p>
       <h1>About</h1>
       <p>Remove About</p>
+      <p>devabout added this line of code.</p>
       <h1>Features</h1>
       <p>Remove Features</p>
       <h1>Story</h1>
