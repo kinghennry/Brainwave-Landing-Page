@@ -16,15 +16,14 @@ export default function App() {
       {/* <Features /> */}
       {/* <Story /> */}
       {/* <Contact /> */}
-      <h1>Navbarss</h1>
-      <h1>adding bad header comp to git</h1>
+      {/* <Footer /> */}
+      <h1>Navbar</h1>
+      <h1>added good component from devnavbar</h1>
       <p>Remove navbar</p>
       <h1>Hero</h1>
       <p>Remove Hero</p>
       <h1>About</h1>
       <p>Remove About</p>
-      <p>devabout added this line of code.</p>
-      <p>devkc added this line of code.</p>
       <h1>Features</h1>
       <p>Remove Features</p>
       <h1>Story</h1>
