@@ -18,6 +18,7 @@ export default function App() {
       {/* <Contact /> */}
       {/* <Footer /> */}
       <h1>Navbar</h1>
+      <h1>added good component from devnavbar</h1>
       <p>Remove navbar</p>
       <h1>Hero</h1>
       <p>Remove Hero</p>
