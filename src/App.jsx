@@ -17,6 +17,7 @@ export default function App() {
       {/* <Story /> */}
       {/* <Contact /> */}
       <h1>Navbarss</h1>
+      <h1>adding bad header comp to git</h1>
       <p>Remove navbar</p>
       <h1>Hero</h1>
       <p>Remove Hero</p>
